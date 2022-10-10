@@ -9,7 +9,8 @@ export default function Home() {
         alt="countryside farmhouse beside paved road at sunset"
         className="absolute mix-blend-overlay object-cover w-full h-full" />
       <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">
-        <h1 className="text-6xl text-green-100 font-bold cursive leading-none  home-name">
+        <h1
+          className="text-6xl text-green-100 font-bold cursive leading-none home-name">
           Welcome
         </h1>
       </section>
